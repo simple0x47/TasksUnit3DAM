@@ -6,6 +6,8 @@
     <string name="correct_toast">Correcto!!!</string>
     <string name="incorrect_toast">Incorrecto!!!</string>
     <string name="next_button">Siguiente</string>
+    <string name="correct_answers">Respuestas correctas:</string>
+    <string name="question_indicator">Pregunta</string>
     <!-- Preguntas que mostramos-->
     <string name="question_one"> El oceano Pacifíco es más grande que el oceano Atlántico.</string>
     <string name="question_two">El Canal de Suez conecta el Mar Rojo y el oceano Índico</string>
